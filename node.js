@@ -29,7 +29,7 @@ const inline_keyboard = [
 
 bot.onText(/\/start/, (msg, [source, match]) => {
   const chatId = msg.chat.id;
-  bot.sendMessage(chatId, "Keyboard", {
+  bot.sendMessage(chatId, "5555555555", {
     reply_markup: {
       inline_keyboard,
     },
