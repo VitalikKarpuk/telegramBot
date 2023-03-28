@@ -21,7 +21,7 @@ const inline_keyboard = [
       callback_data: "edit",
     },
     {
-      text: "Delete",
+      text: "Delejhgjbjbte",
       callback_data: "delete",
     },
   ],
