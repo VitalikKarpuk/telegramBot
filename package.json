@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/VitalikKarpuk/telegramBot#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "node-telegram-bot-api": "^0.61.0"
   }
 }
